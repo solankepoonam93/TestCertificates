@@ -12,7 +12,7 @@ import java.util.Base64;
 public class Test {
 
     public static void main(String[] args) {
-        String httpsUrl = "https://s3.amazonaws.com/"; //326947223243/beta-uniup-worker
+        String httpsUrl = "https://s3.amazonaws.com/"; 
 
         try {
             // Trust all certificates (for demonstration purposes only, do not use in production)
